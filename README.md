@@ -1,16 +1,21 @@
-## Hi there 👋
+```markdown
+<h1 align="center">🎧 ZyEditz</h1>
 
-<!--
-**oK4uan/oK4uan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 C# Developer • 🎮 Gamer • 🎤 Vocaloid Fan
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://media.tenor.com/ZQx4Gv0HkSMAAAAC/hatsune-miku-anime.gif" width="260">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🌙 About Me
+
+```txt
+🎤 Listening to Vocaloid every day
+💻 Programming mainly in C#
+🎮 Gamer
+❄️ Cold weather enjoyer
+☕ Coffee fan
